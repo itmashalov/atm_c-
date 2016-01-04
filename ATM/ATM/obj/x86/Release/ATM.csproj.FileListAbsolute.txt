@@ -1,0 +1,10 @@
+c:\users\dragomir kolev\documents\visual studio 2010\Projects\ATM\ATM\bin\Release\ATM.exe
+c:\users\dragomir kolev\documents\visual studio 2010\Projects\ATM\ATM\bin\Release\ATM.pdb
+c:\users\dragomir kolev\documents\visual studio 2010\Projects\ATM\ATM\obj\x86\Release\ATM.Properties.Resources.resources
+c:\users\dragomir kolev\documents\visual studio 2010\Projects\ATM\ATM\obj\x86\Release\ATM.csproj.GenerateResource.Cache
+c:\users\dragomir kolev\documents\visual studio 2010\Projects\ATM\ATM\obj\x86\Release\ATM.exe
+c:\users\dragomir kolev\documents\visual studio 2010\Projects\ATM\ATM\obj\x86\Release\ATM.pdb
+D:\ATM\ATM\obj\x86\Release\ATM.exe
+D:\ATM\ATM\obj\x86\Release\ATM.pdb
+D:\Csharp Project\IvanMashalov\ATM\ATM\obj\x86\Release\ATM.exe
+D:\Csharp Project\IvanMashalov\ATM\ATM\obj\x86\Release\ATM.pdb
